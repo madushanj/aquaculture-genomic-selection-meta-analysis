@@ -1,0 +1,17 @@
+study_id,author,year,selection_bias,performance_bias,detection_bias,reporting_bias,sample_size_adequacy,validation_method,genotyping_quality,statistical_methods,data_transparency,overall_quality_score,risk_of_bias_level,comments
+STUDY001,Smith et al.,2020,Low,Low,Low,Low,High,High,High,High,High,9.2,Low,"Excellent study design with transparent reporting. Adequate sample size with power analysis. Rigorous QC procedures."
+STUDY002,Johnson & Lee,2021,Low,Moderate,Low,Low,High,High,High,High,Moderate,8.5,Low-Moderate,"Well-conducted study. Minor concerns about environmental control. Good statistical methods and validation."
+STUDY003,Zhang et al.,2022,Low,Low,Low,Low,High,High,High,High,High,9.5,Low,"Exemplary study with multiple validation approaches. Large sample size. Comprehensive data sharing."
+
+# Rating Scale:
+# Selection Bias: Low / Moderate / High - Randomization and sampling procedures
+# Performance Bias: Low / Moderate / High - Blinding and standardization of procedures
+# Detection Bias: Low / Moderate / High - Objective outcome measurement
+# Reporting Bias: Low / Moderate / High - Selective reporting of results
+# Sample Size Adequacy: Low / Moderate / High - Statistical power
+# Validation Method: Low / Moderate / High - Robustness of validation approach
+# Genotyping Quality: Low / Moderate / High - QC procedures and call rates
+# Statistical Methods: Low / Moderate / High - Appropriateness of analysis
+# Data Transparency: Low / Moderate / High - Availability of data and code
+# Overall Quality Score: 0-10 (weighted average)
+# Risk of Bias Level: Low / Low-Moderate / Moderate / Moderate-High / High
