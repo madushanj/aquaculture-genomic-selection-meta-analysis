@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository in your research, please cite it as below."
+type: software
+title: "Meta-Analysis of Genomic Selection in Aquaculture: A PRISMA Approach"
+version: 1.0.0
+date-released: 2025-12-09
+authors:
+  - family-names: "Madhushan"
+    given-names: "J."
+    email: "contact@example.com"
+    affiliation: "Aquaculture Research"
+repository-code: "https://github.com/madushanj/aquaculture-genomic-selection-meta-analysis"
+license: MIT
+keywords:
+  - meta-analysis
+  - genomic selection
+  - aquaculture
+  - PRISMA
+  - breeding
+  - genetics
+  - fisheries
+abstract: "A comprehensive PRISMA-based meta-analysis workflow for evaluating genomic selection effectiveness in aquaculture species. This repository provides templates, R scripts, and documentation for conducting systematic reviews and meta-analyses of genomic selection studies."
